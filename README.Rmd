@@ -12,6 +12,15 @@ knitr::opts_chunk$set(
 )
 ```
 
+```{r, echo=FALSE}
+# Define variable containing url
+url <- "https://travis-ci.org/raynus/course3wk4.svg?branch=master"
+```
+## Some cat!
+Travis Badge
+<img src="`r url`">
+
+
 # course3wk4
 
 The goal of course3wk4 is to complete the course and try the github readme function

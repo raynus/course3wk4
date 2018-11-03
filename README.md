@@ -1,5 +1,10 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
+Some cat!
+---------
+
+Travis Badge <img src="https://travis-ci.org/raynus/course3wk4.svg?branch=master">
+
 course3wk4
 ==========
 
